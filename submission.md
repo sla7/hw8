@@ -5,8 +5,10 @@ file the show:
 DOCKER
 5 pts Your dockerfile. Please provide a link to this file rather than a screen capture.
 [link to Dockerfile!](https://github.com/sla7/hw8/blob/main/Dockerfile)
+
 5 pts Your running docker instance as shown by a ps command.
 ![Screen Capture #2](images/dockerfile2.png)
+
 5 pts Your browser accessing the main page of the website from your local container.
 ![Screen Capture #2](images/dockerfile3.png)
 
