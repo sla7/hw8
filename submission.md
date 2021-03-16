@@ -32,7 +32,7 @@ to this file rather than a screen capture. [link to docker-compose!](https://git
 
 5 pts Your updated application-mysql.properties file containing the URL change for
 the database server. Please provide a link to this file rather than a screen capture.
-[link to mysql.properties!](https://github.com/sla7/hw8/blob/main/spring-petclinic/src/main/resources/application-mysql.properties)
+[link to mysql.properties!](https://github.com/sla7/hw8/blob/main/application-mysql.properties)
 
 5 pts The output from the docker-compose up command.
 
