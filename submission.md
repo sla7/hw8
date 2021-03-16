@@ -35,5 +35,7 @@ the database server. Please provide a link to this file rather than a screen cap
 [link to mysql.properties!](https://github.com/sla7/hw8/blob/main/application-mysql.properties)
 
 5 pts The output from the docker-compose up command.
+![Screen Capture #2](images/dockercompose1.png)
 
 5 pts Your browser accessing the “Veterinarians” page of the website from your local container.
+![Screen Capture #2](images/dockercompose2.png)
